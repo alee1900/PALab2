@@ -59,8 +59,10 @@ I have solved everything in compulsory.
 
 - Implement an algorithm in order to minimize the total cost, using either:
 
-+ an heuristic, for example the Vogel's approximation method
-+ an exact algorithm based on minimum cost network flows.
-+ your own idea (!?)
+an heuristic, for example the Vogel's approximation method;
+
+an exact algorithm based on minimum cost network flows;
+
+your own idea (!?)
 
 - Generate large random instances and analyze the performance of your algorithm (running times, memory consumption). Identify the hot-spots in your code.
