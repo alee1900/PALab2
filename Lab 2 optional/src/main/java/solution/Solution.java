@@ -4,6 +4,7 @@ import problem.Problem;
 
 /**
  * Class Solution, which inherits class Problem
+ * Only works with total supply equal to total demand
  */
 
 public class Solution extends Problem {
