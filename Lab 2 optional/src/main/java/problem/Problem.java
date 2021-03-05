@@ -12,7 +12,7 @@ import java.util.Arrays;
  */
 
 public class Problem {
-
+    //I had to declare these public because otherwise I had errors in class Solution
     public Source[] sources;
     public Destination[] destinations;
     public int[] supply;
