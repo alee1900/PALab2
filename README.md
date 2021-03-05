@@ -68,3 +68,5 @@ an exact algorithm based on minimum cost network flows;
 your own idea (!?)
 
 - Generate large random instances and analyze the performance of your algorithm (running times, memory consumption). Identify the hot-spots in your code.
+
+I tried to create an algorithm using Vogel's approximation method, but it does not compile, even though it doesn't raise any errors.
