@@ -55,6 +55,8 @@ I have solved everything in compulsory.
 - Implement a simple algorithm for creating a feasible solution to the problem (one that satisfies the supply and demand constraints).
 - Write doc comments in your source code and generate the class documentation using javadoc.
 
+I have solved everything in optional.
+
 ## Bonus:
 
 - Implement an algorithm in order to minimize the total cost, using either:
